@@ -8,6 +8,13 @@
 *.class
 /target
 
+# Project builded file
+/.idea
+#/.*
+/.settings
+.project
+.classpath
+
 # Log file
 *.log
 
